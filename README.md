@@ -20,7 +20,7 @@ I'm Osmii, your local high school student that does programming sometimes. I enj
       srcset="https://github-readme-stats.vercel.app/api?username=osmiidev&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=osmiidev&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=osmiidev&show_icons=true" height="128" />
   </picture>
   
   <picture>
@@ -32,7 +32,7 @@ I'm Osmii, your local high school student that does programming sometimes. I enj
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osmiidev&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmiidev&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmiidev&layout=compact" height="128" />
 </p>
 <p align="center"> 
   <i>
