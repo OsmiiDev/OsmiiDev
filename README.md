@@ -1,12 +1,12 @@
 ### 👋 Hey, I'm Osmii. </h2>
 I'm Osmii, your local high school student that does programming sometimes. I enjoy doing math, playing video games, and writing code. I mainly use [`TypeScript`](https://www.typescriptlang.org/) and am learning [`C/C++`](https://clang.org), [`Lua`](lua.org) and [`Go`](https://go.dev).
 
-#### 🌐 Website: [`osmii.me`](https://osmii.me)
+#### 🌐 Website: [`osmii.dev`](https://osmii.dev)
 
 #### 📪 Ways to reach me
 - Twitter [`@OsmiiDev`](https://twitter.com/@OsmiiDev)
 - Discord [`Osmii#0076`](https://discord.com/users/328984108271140864)
-- Email [`osmii@osmii.me`](mailto://osmii@osmii.me)
+- Email [`osmii@osmii.dev`](mailto://osmii@osmii.dev)
 
 ---
 
